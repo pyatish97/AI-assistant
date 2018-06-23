@@ -6,6 +6,6 @@ makes it unique and more powerful in functionality. This AI provides
 numerous features like learn, memory, conditional switch, topic-based
 conversation handling, etc.
 
-the application can be messenger chatbot, shopping app assistant etc
-![](clothing.gif)
+the application can be messenger chatbot, shopping app assistant etc<br />
+![](clothing.gif)<br />
 ![](reminder.gif)
