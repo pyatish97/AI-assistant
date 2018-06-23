@@ -7,3 +7,5 @@ numerous features like learn, memory, conditional switch, topic-based
 conversation handling, etc.
 
 the application can be messenger chatbot, shopping app assistant etc
+![](clothing.gif)
+![](reminder.gif)
